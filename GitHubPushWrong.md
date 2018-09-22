@@ -1,4 +1,4 @@
- #####remote: Permission to WangFeng18/S.git denied to GitGroot.
+ ##### remote: Permission to WangFeng18/S.git denied to GitGroot.
 I fixed it by changing the origin address from https://github.com/WangFeng18/S.git/ to 
                                                https://WangFeng18@github.com/WangFeng18/S.git
 which was added a username@ before github.com
